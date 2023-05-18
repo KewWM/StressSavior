@@ -8,7 +8,7 @@ Coge here: https://colab.research.google.com/drive/1f56LAQLCI8O3owdPkx7bAcBlVpl6
 Task to do:
 1. data analysis
 2. data preprocessing
-3. feature scalling
-4. model development
-5. Data Visualization (learning curve)
-6. hyperparameter tunning
+- feature scalling
+3. model development
+4. Data Visualization (learning curve)
+5. hyperparameter tunning
