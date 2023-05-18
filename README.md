@@ -10,5 +10,5 @@ Task to do:
 2. data preprocessing
 3. feature scalling
 4. model development
-5. learning curve
+5. Data Visualization (learning curve)
 6. hyperparameter tunning
