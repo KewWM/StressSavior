@@ -14,3 +14,6 @@ Task to do:
 3. model development
 4. Data Visualization (learning curve)
 5. hyperparameter tunning
+
+# Video DONE
+- Celine
