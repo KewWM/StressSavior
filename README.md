@@ -16,6 +16,7 @@ Task to do:
 5. hyperparameter tunning
 
 # Video DONE
+- WeiMing
 - Dominic
 - KaiJun
 - Celine
