@@ -10,15 +10,11 @@ Canva ppt: https://www.canva.com/design/DAFj4oez1Uo/DZmKMK7js-cW55GBJt2D3g/edit?
 Submit: https://docs.google.com/spreadsheets/d/1GC0XFBBWaSPQEvYJnmvJyAC7tT8ONq8Hm3xA59Dtn80/edit#gid=955839811
 
 Task to do:
-1. data analysis - supposingly done liao
+1. data analysis
 2. data preprocessing
 - feature scalling
 3. model development
 4. Data Visualization (learning curve)
 5. hyperparameter tunning
 
-# Video DONE
-- WeiMing
-- Dominic
-- KaiJun
-- Celine
+# Video all DONE~~~~
